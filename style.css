@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.avenger{
+    width: 200px;
+    height: 150px;
+}
+#mycarousel img{
+    height: 500px;
+    width: 800px;
+    margin-top: 35px;
+}
+.carousel-content{
+    color: darkorange;
+    font-weight: 800;
+}
+#mycarousel{
+    background-color: blue;
+}
